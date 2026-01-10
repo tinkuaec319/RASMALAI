@@ -1,0 +1,126 @@
+************** Hamming weight = 3 ****************
+NoMod 60%  ==>  Not achieved for 60% recovery
+NoMod 65%  ==>  200000 samples for 60% recovery
+NoMod 70%  ==>  20000 samples for 60% recovery
+NoMod 75%  ==>  5000 samples for 60% recovery
+NoMod 80%  ==>  2000 samples for 60% recovery
+NoMod 85%  ==>  2000 samples for 60% recovery
+NoMod 90%  ==>  1000 samples for 60% recovery
+
+************** Hamming weight = 4 ****************
+NoMod 60%  ==>  Not achieved for 60% recovery
+NoMod 65%  ==>  200000 samples for 60% recovery
+NoMod 70%  ==>  20000 samples for 60% recovery
+NoMod 75%  ==>  5000 samples for 60% recovery
+NoMod 80%  ==>  5000 samples for 60% recovery
+NoMod 85%  ==>  1000 samples for 60% recovery
+NoMod 90%  ==>  1000 samples for 60% recovery
+
+************** Hamming weight = 5 ****************
+NoMod 60%  ==>  Not achieved for 60% recovery
+NoMod 65%  ==>  200000 samples for 60% recovery
+NoMod 70%  ==>  20000 samples for 60% recovery
+NoMod 75%  ==>  5000 samples for 60% recovery
+NoMod 80%  ==>  2000 samples for 60% recovery
+NoMod 85%  ==>  1000 samples for 60% recovery
+NoMod 90%  ==>  1000 samples for 60% recovery
+
+************** Hamming weight = 6 ****************
+NoMod 60%  ==>  Not achieved for 60% recovery
+NoMod 65%  ==>  200000 samples for 60% recovery
+NoMod 70%  ==>  20000 samples for 60% recovery
+NoMod 75%  ==>  5000 samples for 60% recovery
+NoMod 80%  ==>  5000 samples for 60% recovery
+NoMod 85%  ==>  1000 samples for 60% recovery
+NoMod 90%  ==>  1000 samples for 60% recovery
+
+************** Hamming weight = 7 ****************
+NoMod 60%  ==>  Not achieved for 60% recovery
+NoMod 65%  ==>  500000 samples for 60% recovery
+NoMod 70%  ==>  20000 samples for 60% recovery
+NoMod 75%  ==>  5000 samples for 60% recovery
+NoMod 80%  ==>  2000 samples for 60% recovery
+NoMod 85%  ==>  2000 samples for 60% recovery
+NoMod 90%  ==>  1000 samples for 60% recovery
+
+************** Hamming weight = 8 ****************
+NoMod 60%  ==>  Not achieved for 60% recovery
+NoMod 65%  ==>  200000 samples for 60% recovery
+NoMod 70%  ==>  20000 samples for 60% recovery
+NoMod 75%  ==>  5000 samples for 60% recovery
+NoMod 80%  ==>  5000 samples for 60% recovery
+NoMod 85%  ==>  2000 samples for 60% recovery
+NoMod 90%  ==>  1000 samples for 60% recovery
+
+************** Hamming weight = 9 ****************
+NoMod 60%  ==>  Not achieved for 60% recovery
+NoMod 65%  ==>  200000 samples for 60% recovery
+NoMod 70%  ==>  20000 samples for 60% recovery
+NoMod 75%  ==>  10000 samples for 60% recovery
+NoMod 80%  ==>  2000 samples for 60% recovery
+NoMod 85%  ==>  1000 samples for 60% recovery
+NoMod 90%  ==>  1000 samples for 60% recovery
+
+************** Hamming weight = 10 ****************
+NoMod 60%  ==>  Not achieved for 60% recovery
+NoMod 65%  ==>  200000 samples for 60% recovery
+NoMod 70%  ==>  20000 samples for 60% recovery
+NoMod 75%  ==>  5000 samples for 60% recovery
+NoMod 80%  ==>  5000 samples for 60% recovery
+NoMod 85%  ==>  2000 samples for 60% recovery
+NoMod 90%  ==>  1000 samples for 60% recovery
+
+************** Hamming weight = 11 ****************
+NoMod 60%  ==>  Not achieved for 60% recovery
+NoMod 65%  ==>  200000 samples for 60% recovery
+NoMod 70%  ==>  20000 samples for 60% recovery
+NoMod 75%  ==>  5000 samples for 60% recovery
+NoMod 80%  ==>  2000 samples for 60% recovery
+NoMod 85%  ==>  2000 samples for 60% recovery
+NoMod 90%  ==>  1000 samples for 60% recovery
+
+************** Hamming weight = 12 ****************
+NoMod 60%  ==>  Not achieved for 60% recovery
+NoMod 65%  ==>  200000 samples for 60% recovery
+NoMod 70%  ==>  20000 samples for 60% recovery
+NoMod 75%  ==>  5000 samples for 60% recovery
+NoMod 80%  ==>  5000 samples for 60% recovery
+NoMod 85%  ==>  1000 samples for 60% recovery
+NoMod 90%  ==>  1000 samples for 60% recovery
+
+************** Hamming weight = 13 ****************
+NoMod 60%  ==>  Not achieved for 60% recovery
+NoMod 65%  ==>  200000 samples for 60% recovery
+NoMod 70%  ==>  20000 samples for 60% recovery
+NoMod 75%  ==>  5000 samples for 60% recovery
+NoMod 80%  ==>  5000 samples for 60% recovery
+NoMod 85%  ==>  2000 samples for 60% recovery
+NoMod 90%  ==>  1000 samples for 60% recovery
+
+************** Hamming weight = 14 ****************
+NoMod 60%  ==>  Not achieved for 60% recovery
+NoMod 65%  ==>  200000 samples for 60% recovery
+NoMod 70%  ==>  20000 samples for 60% recovery
+NoMod 75%  ==>  5000 samples for 60% recovery
+NoMod 80%  ==>  2000 samples for 60% recovery
+NoMod 85%  ==>  2000 samples for 60% recovery
+NoMod 90%  ==>  1000 samples for 60% recovery
+
+************** Hamming weight = 15 ****************
+NoMod 60%  ==>  Not achieved for 60% recovery
+NoMod 65%  ==>  500000 samples for 60% recovery
+NoMod 70%  ==>  20000 samples for 60% recovery
+NoMod 75%  ==>  5000 samples for 60% recovery
+NoMod 80%  ==>  2000 samples for 60% recovery
+NoMod 85%  ==>  1000 samples for 60% recovery
+NoMod 90%  ==>  1000 samples for 60% recovery
+
+************** Hamming weight = 16 ****************
+NoMod 60%  ==>  Not achieved for 60% recovery
+NoMod 65%  ==>  200000 samples for 60% recovery
+NoMod 70%  ==>  20000 samples for 60% recovery
+NoMod 75%  ==>  5000 samples for 60% recovery
+NoMod 80%  ==>  5000 samples for 60% recovery
+NoMod 85%  ==>  1000 samples for 60% recovery
+NoMod 90%  ==>  1000 samples for 60% recovery
+

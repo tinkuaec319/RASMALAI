@@ -1,0 +1,36 @@
+Secret Recovery Analysis Report
+===================================
+Parameters:
+- Hamming weight: 40
+- Iteration: 0
+- Samples: 1000000
+- Selected indices: [ 731985  474097 1309109]...[3105571 2481295 2129715]
+
+Ternary Parameters:
+- Target NoMod: 70.00%
+- Actual NoMod: 70.00%
+
+Binary Parameters:
+- Actual NoMod in selected samples: 25.62%
+
+Results:
+
+Model: LinearRegression
+---
+Ternary Recovery:
+- Success: ✅
+- Coefficients (min/max/avg): -0.0527 | 0.0570 | -0.0006
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0151 | 0.0192 | 0.0001
+
+Model: OMP
+---
+Ternary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0479 | 0.0535 | -0.0003
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0035 | 0.0030 | 0.0000

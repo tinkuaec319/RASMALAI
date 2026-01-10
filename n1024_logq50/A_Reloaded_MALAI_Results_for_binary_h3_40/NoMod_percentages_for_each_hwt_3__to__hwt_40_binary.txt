@@ -1,0 +1,570 @@
+****************** Hamming Weight = 3 ******************
+Iteration 1: NoMOD % = 62.70%
+Iteration 2: NoMOD % = 62.65%
+Iteration 3: NoMOD % = 62.74%
+Iteration 4: NoMOD % = 62.61%
+Iteration 5: NoMOD % = 62.70%
+Iteration 6: NoMOD % = 62.65%
+Iteration 7: NoMOD % = 62.67%
+Iteration 8: NoMOD % = 62.73%
+Iteration 9: NoMOD % = 62.72%
+Iteration 10: NoMOD % = 62.66%
+Average NoMOD % for HW=3: 62.68%
+
+
+
+****************** Hamming Weight = 4 ******************
+Iteration 1: NoMOD % = 57.12%
+Iteration 2: NoMOD % = 57.04%
+Iteration 3: NoMOD % = 57.10%
+Iteration 4: NoMOD % = 57.11%
+Iteration 5: NoMOD % = 57.06%
+Iteration 6: NoMOD % = 56.99%
+Iteration 7: NoMOD % = 57.12%
+Iteration 8: NoMOD % = 57.11%
+Iteration 9: NoMOD % = 57.02%
+Iteration 10: NoMOD % = 57.04%
+Average NoMOD % for HW=4: 57.07%
+
+
+
+****************** Hamming Weight = 5 ******************
+Iteration 1: NoMOD % = 52.74%
+Iteration 2: NoMOD % = 52.78%
+Iteration 3: NoMOD % = 52.78%
+Iteration 4: NoMOD % = 52.75%
+Iteration 5: NoMOD % = 52.76%
+Iteration 6: NoMOD % = 52.70%
+Iteration 7: NoMOD % = 52.77%
+Iteration 8: NoMOD % = 52.74%
+Iteration 9: NoMOD % = 52.83%
+Iteration 10: NoMOD % = 52.75%
+Average NoMOD % for HW=5: 52.76%
+
+
+
+****************** Hamming Weight = 6 ******************
+Iteration 1: NoMOD % = 49.26%
+Iteration 2: NoMOD % = 49.25%
+Iteration 3: NoMOD % = 49.26%
+Iteration 4: NoMOD % = 49.26%
+Iteration 5: NoMOD % = 49.31%
+Iteration 6: NoMOD % = 49.30%
+Iteration 7: NoMOD % = 49.33%
+Iteration 8: NoMOD % = 49.22%
+Iteration 9: NoMOD % = 49.26%
+Iteration 10: NoMOD % = 49.29%
+Average NoMOD % for HW=6: 49.27%
+
+
+
+****************** Hamming Weight = 7 ******************
+Iteration 1: NoMOD % = 46.37%
+Iteration 2: NoMOD % = 46.42%
+Iteration 3: NoMOD % = 46.41%
+Iteration 4: NoMOD % = 46.38%
+Iteration 5: NoMOD % = 46.46%
+Iteration 6: NoMOD % = 46.39%
+Iteration 7: NoMOD % = 46.40%
+Iteration 8: NoMOD % = 46.40%
+Iteration 9: NoMOD % = 46.40%
+Iteration 10: NoMOD % = 46.45%
+Average NoMOD % for HW=7: 46.41%
+
+
+
+****************** Hamming Weight = 8 ******************
+Iteration 1: NoMOD % = 44.01%
+Iteration 2: NoMOD % = 44.03%
+Iteration 3: NoMOD % = 44.01%
+Iteration 4: NoMOD % = 43.98%
+Iteration 5: NoMOD % = 44.02%
+Iteration 6: NoMOD % = 43.96%
+Iteration 7: NoMOD % = 44.01%
+Iteration 8: NoMOD % = 43.95%
+Iteration 9: NoMOD % = 44.00%
+Iteration 10: NoMOD % = 43.95%
+Average NoMOD % for HW=8: 43.99%
+
+
+
+****************** Hamming Weight = 9 ******************
+Iteration 1: NoMOD % = 41.98%
+Iteration 2: NoMOD % = 41.90%
+Iteration 3: NoMOD % = 41.93%
+Iteration 4: NoMOD % = 41.89%
+Iteration 5: NoMOD % = 41.92%
+Iteration 6: NoMOD % = 41.93%
+Iteration 7: NoMOD % = 41.96%
+Iteration 8: NoMOD % = 41.90%
+Iteration 9: NoMOD % = 41.92%
+Iteration 10: NoMOD % = 41.92%
+Average NoMOD % for HW=9: 41.92%
+
+
+
+****************** Hamming Weight = 10 ******************
+Iteration 1: NoMOD % = 40.09%
+Iteration 2: NoMOD % = 40.09%
+Iteration 3: NoMOD % = 40.09%
+Iteration 4: NoMOD % = 40.10%
+Iteration 5: NoMOD % = 40.15%
+Iteration 6: NoMOD % = 40.12%
+Iteration 7: NoMOD % = 40.10%
+Iteration 8: NoMOD % = 40.09%
+Iteration 9: NoMOD % = 40.08%
+Iteration 10: NoMOD % = 40.16%
+Average NoMOD % for HW=10: 40.11%
+
+
+
+****************** Hamming Weight = 11 ******************
+Iteration 1: NoMOD % = 38.52%
+Iteration 2: NoMOD % = 38.54%
+Iteration 3: NoMOD % = 38.51%
+Iteration 4: NoMOD % = 38.52%
+Iteration 5: NoMOD % = 38.48%
+Iteration 6: NoMOD % = 38.56%
+Iteration 7: NoMOD % = 38.53%
+Iteration 8: NoMOD % = 38.51%
+Iteration 9: NoMOD % = 38.46%
+Iteration 10: NoMOD % = 38.53%
+Average NoMOD % for HW=11: 38.52%
+
+
+
+****************** Hamming Weight = 12 ******************
+Iteration 1: NoMOD % = 37.12%
+Iteration 2: NoMOD % = 37.05%
+Iteration 3: NoMOD % = 37.10%
+Iteration 4: NoMOD % = 37.13%
+Iteration 5: NoMOD % = 37.11%
+Iteration 6: NoMOD % = 37.12%
+Iteration 7: NoMOD % = 37.14%
+Iteration 8: NoMOD % = 37.13%
+Iteration 9: NoMOD % = 37.09%
+Iteration 10: NoMOD % = 37.11%
+Average NoMOD % for HW=12: 37.11%
+
+
+
+****************** Hamming Weight = 13 ******************
+Iteration 1: NoMOD % = 35.80%
+Iteration 2: NoMOD % = 35.86%
+Iteration 3: NoMOD % = 35.86%
+Iteration 4: NoMOD % = 35.86%
+Iteration 5: NoMOD % = 35.86%
+Iteration 6: NoMOD % = 35.81%
+Iteration 7: NoMOD % = 35.83%
+Iteration 8: NoMOD % = 35.90%
+Iteration 9: NoMOD % = 35.85%
+Iteration 10: NoMOD % = 35.80%
+Average NoMOD % for HW=13: 35.84%
+
+
+
+****************** Hamming Weight = 14 ******************
+Iteration 1: NoMOD % = 34.71%
+Iteration 2: NoMOD % = 34.71%
+Iteration 3: NoMOD % = 34.71%
+Iteration 4: NoMOD % = 34.66%
+Iteration 5: NoMOD % = 34.70%
+Iteration 6: NoMOD % = 34.66%
+Iteration 7: NoMOD % = 34.70%
+Iteration 8: NoMOD % = 34.64%
+Iteration 9: NoMOD % = 34.67%
+Iteration 10: NoMOD % = 34.68%
+Average NoMOD % for HW=14: 34.68%
+
+
+
+****************** Hamming Weight = 15 ******************
+Iteration 1: NoMOD % = 33.66%
+Iteration 2: NoMOD % = 33.69%
+Iteration 3: NoMOD % = 33.69%
+Iteration 4: NoMOD % = 33.65%
+Iteration 5: NoMOD % = 33.70%
+Iteration 6: NoMOD % = 33.69%
+Iteration 7: NoMOD % = 33.64%
+Iteration 8: NoMOD % = 33.64%
+Iteration 9: NoMOD % = 33.64%
+Iteration 10: NoMOD % = 33.66%
+Average NoMOD % for HW=15: 33.67%
+
+
+
+****************** Hamming Weight = 16 ******************
+Iteration 1: NoMOD % = 32.66%
+Iteration 2: NoMOD % = 32.68%
+Iteration 3: NoMOD % = 32.70%
+Iteration 4: NoMOD % = 32.68%
+Iteration 5: NoMOD % = 32.73%
+Iteration 6: NoMOD % = 32.69%
+Iteration 7: NoMOD % = 32.70%
+Iteration 8: NoMOD % = 32.68%
+Iteration 9: NoMOD % = 32.69%
+Iteration 10: NoMOD % = 32.67%
+Average NoMOD % for HW=16: 32.69%
+
+
+
+****************** Hamming Weight = 17 ******************
+Iteration 1: NoMOD % = 31.79%
+Iteration 2: NoMOD % = 31.80%
+Iteration 3: NoMOD % = 31.81%
+Iteration 4: NoMOD % = 31.84%
+Iteration 5: NoMOD % = 31.82%
+Iteration 6: NoMOD % = 31.84%
+Iteration 7: NoMOD % = 31.83%
+Iteration 8: NoMOD % = 31.81%
+Iteration 9: NoMOD % = 31.82%
+Iteration 10: NoMOD % = 31.83%
+Average NoMOD % for HW=17: 31.82%
+
+
+
+****************** Hamming Weight = 18 ******************
+Iteration 1: NoMOD % = 30.99%
+Iteration 2: NoMOD % = 30.99%
+Iteration 3: NoMOD % = 30.97%
+Iteration 4: NoMOD % = 31.01%
+Iteration 5: NoMOD % = 31.01%
+Iteration 6: NoMOD % = 31.00%
+Iteration 7: NoMOD % = 30.99%
+Iteration 8: NoMOD % = 31.01%
+Iteration 9: NoMOD % = 31.04%
+Iteration 10: NoMOD % = 30.98%
+Average NoMOD % for HW=18: 31.00%
+
+
+
+****************** Hamming Weight = 19 ******************
+Iteration 1: NoMOD % = 30.21%
+Iteration 2: NoMOD % = 30.23%
+Iteration 3: NoMOD % = 30.28%
+Iteration 4: NoMOD % = 30.25%
+Iteration 5: NoMOD % = 30.27%
+Iteration 6: NoMOD % = 30.24%
+Iteration 7: NoMOD % = 30.27%
+Iteration 8: NoMOD % = 30.30%
+Iteration 9: NoMOD % = 30.25%
+Iteration 10: NoMOD % = 30.26%
+Average NoMOD % for HW=19: 30.26%
+
+
+
+****************** Hamming Weight = 20 ******************
+Iteration 1: NoMOD % = 29.55%
+Iteration 2: NoMOD % = 29.55%
+Iteration 3: NoMOD % = 29.53%
+Iteration 4: NoMOD % = 29.48%
+Iteration 5: NoMOD % = 29.58%
+Iteration 6: NoMOD % = 29.57%
+Iteration 7: NoMOD % = 29.57%
+Iteration 8: NoMOD % = 29.53%
+Iteration 9: NoMOD % = 29.48%
+Iteration 10: NoMOD % = 29.54%
+Average NoMOD % for HW=20: 29.54%
+
+
+
+****************** Hamming Weight = 21 ******************
+Iteration 1: NoMOD % = 28.90%
+Iteration 2: NoMOD % = 28.92%
+Iteration 3: NoMOD % = 28.94%
+Iteration 4: NoMOD % = 28.87%
+Iteration 5: NoMOD % = 28.89%
+Iteration 6: NoMOD % = 28.93%
+Iteration 7: NoMOD % = 28.87%
+Iteration 8: NoMOD % = 28.89%
+Iteration 9: NoMOD % = 28.90%
+Iteration 10: NoMOD % = 28.92%
+Average NoMOD % for HW=21: 28.90%
+
+
+
+****************** Hamming Weight = 22 ******************
+Iteration 1: NoMOD % = 28.29%
+Iteration 2: NoMOD % = 28.29%
+Iteration 3: NoMOD % = 28.31%
+Iteration 4: NoMOD % = 28.27%
+Iteration 5: NoMOD % = 28.28%
+Iteration 6: NoMOD % = 28.25%
+Iteration 7: NoMOD % = 28.25%
+Iteration 8: NoMOD % = 28.31%
+Iteration 9: NoMOD % = 28.30%
+Iteration 10: NoMOD % = 28.30%
+Average NoMOD % for HW=22: 28.29%
+
+
+
+****************** Hamming Weight = 23 ******************
+Iteration 1: NoMOD % = 27.69%
+Iteration 2: NoMOD % = 27.69%
+Iteration 3: NoMOD % = 27.70%
+Iteration 4: NoMOD % = 27.73%
+Iteration 5: NoMOD % = 27.71%
+Iteration 6: NoMOD % = 27.65%
+Iteration 7: NoMOD % = 27.72%
+Iteration 8: NoMOD % = 27.75%
+Iteration 9: NoMOD % = 27.71%
+Iteration 10: NoMOD % = 27.75%
+Average NoMOD % for HW=23: 27.71%
+
+
+
+****************** Hamming Weight = 24 ******************
+Iteration 1: NoMOD % = 27.14%
+Iteration 2: NoMOD % = 27.15%
+Iteration 3: NoMOD % = 27.17%
+Iteration 4: NoMOD % = 27.19%
+Iteration 5: NoMOD % = 27.20%
+Iteration 6: NoMOD % = 27.16%
+Iteration 7: NoMOD % = 27.18%
+Iteration 8: NoMOD % = 27.18%
+Iteration 9: NoMOD % = 27.15%
+Iteration 10: NoMOD % = 27.13%
+Average NoMOD % for HW=24: 27.16%
+
+
+
+****************** Hamming Weight = 25 ******************
+Iteration 1: NoMOD % = 26.64%
+Iteration 2: NoMOD % = 26.69%
+Iteration 3: NoMOD % = 26.65%
+Iteration 4: NoMOD % = 26.71%
+Iteration 5: NoMOD % = 26.64%
+Iteration 6: NoMOD % = 26.67%
+Iteration 7: NoMOD % = 26.62%
+Iteration 8: NoMOD % = 26.64%
+Iteration 9: NoMOD % = 26.66%
+Iteration 10: NoMOD % = 26.66%
+Average NoMOD % for HW=25: 26.66%
+
+
+
+****************** Hamming Weight = 26 ******************
+Iteration 1: NoMOD % = 26.17%
+Iteration 2: NoMOD % = 26.19%
+Iteration 3: NoMOD % = 26.14%
+Iteration 4: NoMOD % = 26.16%
+Iteration 5: NoMOD % = 26.18%
+Iteration 6: NoMOD % = 26.17%
+Iteration 7: NoMOD % = 26.16%
+Iteration 8: NoMOD % = 26.20%
+Iteration 9: NoMOD % = 26.15%
+Iteration 10: NoMOD % = 26.20%
+Average NoMOD % for HW=26: 26.17%
+
+
+
+****************** Hamming Weight = 27 ******************
+Iteration 1: NoMOD % = 25.69%
+Iteration 2: NoMOD % = 25.72%
+Iteration 3: NoMOD % = 25.68%
+Iteration 4: NoMOD % = 25.65%
+Iteration 5: NoMOD % = 25.73%
+Iteration 6: NoMOD % = 25.73%
+Iteration 7: NoMOD % = 25.70%
+Iteration 8: NoMOD % = 25.71%
+Iteration 9: NoMOD % = 25.68%
+Iteration 10: NoMOD % = 25.74%
+Average NoMOD % for HW=27: 25.70%
+
+
+
+****************** Hamming Weight = 28 ******************
+Iteration 1: NoMOD % = 25.30%
+Iteration 2: NoMOD % = 25.30%
+Iteration 3: NoMOD % = 25.26%
+Iteration 4: NoMOD % = 25.28%
+Iteration 5: NoMOD % = 25.28%
+Iteration 6: NoMOD % = 25.26%
+Iteration 7: NoMOD % = 25.26%
+Iteration 8: NoMOD % = 25.30%
+Iteration 9: NoMOD % = 25.26%
+Iteration 10: NoMOD % = 25.31%
+Average NoMOD % for HW=28: 25.28%
+
+
+
+****************** Hamming Weight = 29 ******************
+Iteration 1: NoMOD % = 24.87%
+Iteration 2: NoMOD % = 24.87%
+Iteration 3: NoMOD % = 24.88%
+Iteration 4: NoMOD % = 24.88%
+Iteration 5: NoMOD % = 24.86%
+Iteration 6: NoMOD % = 24.88%
+Iteration 7: NoMOD % = 24.88%
+Iteration 8: NoMOD % = 24.87%
+Iteration 9: NoMOD % = 24.83%
+Iteration 10: NoMOD % = 24.86%
+Average NoMOD % for HW=29: 24.87%
+
+
+
+****************** Hamming Weight = 30 ******************
+Iteration 1: NoMOD % = 24.48%
+Iteration 2: NoMOD % = 24.49%
+Iteration 3: NoMOD % = 24.48%
+Iteration 4: NoMOD % = 24.49%
+Iteration 5: NoMOD % = 24.50%
+Iteration 6: NoMOD % = 24.48%
+Iteration 7: NoMOD % = 24.51%
+Iteration 8: NoMOD % = 24.50%
+Iteration 9: NoMOD % = 24.49%
+Iteration 10: NoMOD % = 24.46%
+Average NoMOD % for HW=30: 24.49%
+
+
+
+****************** Hamming Weight = 31 ******************
+Iteration 1: NoMOD % = 24.11%
+Iteration 2: NoMOD % = 24.11%
+Iteration 3: NoMOD % = 24.10%
+Iteration 4: NoMOD % = 24.08%
+Iteration 5: NoMOD % = 24.11%
+Iteration 6: NoMOD % = 24.12%
+Iteration 7: NoMOD % = 24.12%
+Iteration 8: NoMOD % = 24.10%
+Iteration 9: NoMOD % = 24.09%
+Iteration 10: NoMOD % = 24.11%
+Average NoMOD % for HW=31: 24.10%
+
+
+
+****************** Hamming Weight = 32 ******************
+Iteration 1: NoMOD % = 23.77%
+Iteration 2: NoMOD % = 23.73%
+Iteration 3: NoMOD % = 23.76%
+Iteration 4: NoMOD % = 23.74%
+Iteration 5: NoMOD % = 23.73%
+Iteration 6: NoMOD % = 23.75%
+Iteration 7: NoMOD % = 23.71%
+Iteration 8: NoMOD % = 23.72%
+Iteration 9: NoMOD % = 23.75%
+Iteration 10: NoMOD % = 23.76%
+Average NoMOD % for HW=32: 23.74%
+
+
+
+****************** Hamming Weight = 33 ******************
+Iteration 1: NoMOD % = 23.39%
+Iteration 2: NoMOD % = 23.40%
+Iteration 3: NoMOD % = 23.36%
+Iteration 4: NoMOD % = 23.41%
+Iteration 5: NoMOD % = 23.41%
+Iteration 6: NoMOD % = 23.46%
+Iteration 7: NoMOD % = 23.40%
+Iteration 8: NoMOD % = 23.44%
+Iteration 9: NoMOD % = 23.40%
+Iteration 10: NoMOD % = 23.40%
+Average NoMOD % for HW=33: 23.41%
+
+
+
+****************** Hamming Weight = 34 ******************
+Iteration 1: NoMOD % = 23.10%
+Iteration 2: NoMOD % = 23.09%
+Iteration 3: NoMOD % = 23.08%
+Iteration 4: NoMOD % = 23.07%
+Iteration 5: NoMOD % = 23.04%
+Iteration 6: NoMOD % = 23.09%
+Iteration 7: NoMOD % = 23.05%
+Iteration 8: NoMOD % = 23.04%
+Iteration 9: NoMOD % = 23.08%
+Iteration 10: NoMOD % = 23.07%
+Average NoMOD % for HW=34: 23.07%
+
+
+
+****************** Hamming Weight = 35 ******************
+Iteration 1: NoMOD % = 22.72%
+Iteration 2: NoMOD % = 22.78%
+Iteration 3: NoMOD % = 22.76%
+Iteration 4: NoMOD % = 22.73%
+Iteration 5: NoMOD % = 22.76%
+Iteration 6: NoMOD % = 22.75%
+Iteration 7: NoMOD % = 22.76%
+Iteration 8: NoMOD % = 22.73%
+Iteration 9: NoMOD % = 22.79%
+Iteration 10: NoMOD % = 22.75%
+Average NoMOD % for HW=35: 22.75%
+
+
+
+****************** Hamming Weight = 36 ******************
+Iteration 1: NoMOD % = 22.44%
+Iteration 2: NoMOD % = 22.45%
+Iteration 3: NoMOD % = 22.45%
+Iteration 4: NoMOD % = 22.42%
+Iteration 5: NoMOD % = 22.49%
+Iteration 6: NoMOD % = 22.46%
+Iteration 7: NoMOD % = 22.49%
+Iteration 8: NoMOD % = 22.46%
+Iteration 9: NoMOD % = 22.44%
+Iteration 10: NoMOD % = 22.49%
+Average NoMOD % for HW=36: 22.46%
+
+
+
+****************** Hamming Weight = 37 ******************
+Iteration 1: NoMOD % = 22.16%
+Iteration 2: NoMOD % = 22.17%
+Iteration 3: NoMOD % = 22.15%
+Iteration 4: NoMOD % = 22.15%
+Iteration 5: NoMOD % = 22.19%
+Iteration 6: NoMOD % = 22.19%
+Iteration 7: NoMOD % = 22.19%
+Iteration 8: NoMOD % = 22.18%
+Iteration 9: NoMOD % = 22.16%
+Iteration 10: NoMOD % = 22.14%
+Average NoMOD % for HW=37: 22.17%
+
+
+
+****************** Hamming Weight = 38 ******************
+Iteration 1: NoMOD % = 21.90%
+Iteration 2: NoMOD % = 21.86%
+Iteration 3: NoMOD % = 21.86%
+Iteration 4: NoMOD % = 21.89%
+Iteration 5: NoMOD % = 21.91%
+Iteration 6: NoMOD % = 21.88%
+Iteration 7: NoMOD % = 21.89%
+Iteration 8: NoMOD % = 21.87%
+Iteration 9: NoMOD % = 21.91%
+Iteration 10: NoMOD % = 21.87%
+Average NoMOD % for HW=38: 21.88%
+
+
+
+****************** Hamming Weight = 39 ******************
+Iteration 1: NoMOD % = 21.60%
+Iteration 2: NoMOD % = 21.63%
+Iteration 3: NoMOD % = 21.62%
+Iteration 4: NoMOD % = 21.65%
+Iteration 5: NoMOD % = 21.64%
+Iteration 6: NoMOD % = 21.62%
+Iteration 7: NoMOD % = 21.62%
+Iteration 8: NoMOD % = 21.63%
+Iteration 9: NoMOD % = 21.60%
+Iteration 10: NoMOD % = 21.62%
+Average NoMOD % for HW=39: 21.62%
+
+
+
+****************** Hamming Weight = 40 ******************
+Iteration 1: NoMOD % = 21.38%
+Iteration 2: NoMOD % = 21.32%
+Iteration 3: NoMOD % = 21.36%
+Iteration 4: NoMOD % = 21.37%
+Iteration 5: NoMOD % = 21.35%
+Iteration 6: NoMOD % = 21.31%
+Iteration 7: NoMOD % = 21.33%
+Iteration 8: NoMOD % = 21.35%
+Iteration 9: NoMOD % = 21.40%
+Iteration 10: NoMOD % = 21.35%
+Average NoMOD % for HW=40: 21.35%
+
+
+

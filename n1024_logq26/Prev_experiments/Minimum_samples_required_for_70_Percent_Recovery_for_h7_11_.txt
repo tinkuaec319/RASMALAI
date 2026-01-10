@@ -1,0 +1,45 @@
+************** Hamming weight = 7 ****************
+NoMod 60%  ==>  1000000 samples for 70% recovery
+NoMod 65%  ==>  500000 samples for 70% recovery
+NoMod 70%  ==>  200000 samples for 70% recovery
+NoMod 75%  ==>  100000 samples for 70% recovery
+NoMod 80%  ==>  50000 samples for 70% recovery
+NoMod 85%  ==>  20000 samples for 70% recovery
+NoMod 90%  ==>  20000 samples for 70% recovery
+
+************** Hamming weight = 8 ****************
+NoMod 60%  ==>  1000000 samples for 70% recovery
+NoMod 65%  ==>  500000 samples for 70% recovery
+NoMod 70%  ==>  200000 samples for 70% recovery
+NoMod 75%  ==>  100000 samples for 70% recovery
+NoMod 80%  ==>  50000 samples for 70% recovery
+NoMod 85%  ==>  20000 samples for 70% recovery
+NoMod 90%  ==>  20000 samples for 70% recovery
+
+************** Hamming weight = 9 ****************
+NoMod 60%  ==>  2000000 samples for 70% recovery
+NoMod 65%  ==>  500000 samples for 70% recovery
+NoMod 70%  ==>  200000 samples for 70% recovery
+NoMod 75%  ==>  100000 samples for 70% recovery
+NoMod 80%  ==>  50000 samples for 70% recovery
+NoMod 85%  ==>  50000 samples for 70% recovery
+NoMod 90%  ==>  20000 samples for 70% recovery
+
+************** Hamming weight = 10 ****************
+NoMod 60%  ==>  1000000 samples for 70% recovery
+NoMod 65%  ==>  500000 samples for 70% recovery
+NoMod 70%  ==>  200000 samples for 70% recovery
+NoMod 75%  ==>  100000 samples for 70% recovery
+NoMod 80%  ==>  50000 samples for 70% recovery
+NoMod 85%  ==>  20000 samples for 70% recovery
+NoMod 90%  ==>  20000 samples for 70% recovery
+
+************** Hamming weight = 11 ****************
+NoMod 60%  ==>  2000000 samples for 70% recovery
+NoMod 65%  ==>  500000 samples for 70% recovery
+NoMod 70%  ==>  200000 samples for 70% recovery
+NoMod 75%  ==>  100000 samples for 70% recovery
+NoMod 80%  ==>  50000 samples for 70% recovery
+NoMod 85%  ==>  50000 samples for 70% recovery
+NoMod 90%  ==>  20000 samples for 70% recovery
+

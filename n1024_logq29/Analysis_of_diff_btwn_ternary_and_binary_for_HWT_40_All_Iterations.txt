@@ -1,0 +1,278 @@
+Secret Recovery Analysis Report - Hamming Weight 40
+=======================================================
+Total iterations analyzed: 10
+Sample size per iteration: 1000000
+
+
+============================================================
+Iteration 0
+Secret column: 370
+Ternary NoMod: 70.00%
+Binary NoMod: 25.57%
+============================================================
+
+Model: LinearRegression
+---
+Ternary Recovery:
+- Success: ✅
+- Coefficients (min/max/avg): -0.0497 | 0.0531 | -0.0005
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0164 | 0.0170 | 0.0000
+
+Model: OMP
+---
+Ternary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0480 | 0.0470 | -0.0004
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0034 | 0.0036 | -0.0000
+
+============================================================
+Iteration 1
+Secret column: 371
+Ternary NoMod: 70.00%
+Binary NoMod: 23.98%
+============================================================
+
+Model: LinearRegression
+---
+Ternary Recovery:
+- Success: ✅
+- Coefficients (min/max/avg): -0.0445 | 0.0515 | 0.0003
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0174 | 0.0224 | -0.0000
+
+Model: OMP
+---
+Ternary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0441 | 0.0438 | 0.0001
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0051 | 0.0036 | -0.0000
+
+============================================================
+Iteration 2
+Secret column: 372
+Ternary NoMod: 70.00%
+Binary NoMod: 25.28%
+============================================================
+
+Model: LinearRegression
+---
+Ternary Recovery:
+- Success: ✅
+- Coefficients (min/max/avg): -0.0523 | 0.0507 | -0.0001
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0194 | 0.0200 | 0.0001
+
+Model: OMP
+---
+Ternary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0505 | 0.0500 | 0.0001
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0027 | 0.0036 | 0.0000
+
+============================================================
+Iteration 3
+Secret column: 373
+Ternary NoMod: 70.00%
+Binary NoMod: 24.39%
+============================================================
+
+Model: LinearRegression
+---
+Ternary Recovery:
+- Success: ✅
+- Coefficients (min/max/avg): -0.0497 | 0.0469 | -0.0004
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0191 | 0.0158 | 0.0000
+
+Model: OMP
+---
+Ternary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0466 | 0.0464 | -0.0003
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0037 | 0.0036 | 0.0000
+
+============================================================
+Iteration 4
+Secret column: 374
+Ternary NoMod: 70.00%
+Binary NoMod: 25.05%
+============================================================
+
+Model: LinearRegression
+---
+Ternary Recovery:
+- Success: ✅
+- Coefficients (min/max/avg): -0.0598 | 0.0624 | 0.0001
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0151 | 0.0175 | 0.0001
+
+Model: OMP
+---
+Ternary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0533 | 0.0623 | -0.0001
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0029 | 0.0024 | -0.0000
+
+============================================================
+Iteration 5
+Secret column: 375
+Ternary NoMod: 70.00%
+Binary NoMod: 25.10%
+============================================================
+
+Model: LinearRegression
+---
+Ternary Recovery:
+- Success: ✅
+- Coefficients (min/max/avg): -0.0602 | 0.0587 | -0.0002
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0149 | 0.0139 | -0.0001
+
+Model: OMP
+---
+Ternary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0519 | 0.0538 | 0.0000
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0035 | 0.0027 | -0.0000
+
+============================================================
+Iteration 6
+Secret column: 376
+Ternary NoMod: 70.00%
+Binary NoMod: 23.66%
+============================================================
+
+Model: LinearRegression
+---
+Ternary Recovery:
+- Success: ✅
+- Coefficients (min/max/avg): -0.0526 | 0.0506 | 0.0003
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0202 | 0.0186 | -0.0002
+
+Model: OMP
+---
+Ternary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0467 | 0.0452 | -0.0000
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0032 | 0.0034 | -0.0000
+
+============================================================
+Iteration 7
+Secret column: 377
+Ternary NoMod: 70.00%
+Binary NoMod: 28.55%
+============================================================
+
+Model: LinearRegression
+---
+Ternary Recovery:
+- Success: ✅
+- Coefficients (min/max/avg): -0.0555 | 0.0532 | 0.0002
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0173 | 0.0165 | -0.0001
+
+Model: OMP
+---
+Ternary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0466 | 0.0456 | 0.0002
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0030 | 0.0028 | -0.0000
+
+============================================================
+Iteration 8
+Secret column: 378
+Ternary NoMod: 70.00%
+Binary NoMod: 24.00%
+============================================================
+
+Model: LinearRegression
+---
+Ternary Recovery:
+- Success: ✅
+- Coefficients (min/max/avg): -0.0493 | 0.0487 | -0.0000
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0190 | 0.0170 | -0.0001
+
+Model: OMP
+---
+Ternary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0450 | 0.0451 | -0.0001
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0031 | 0.0034 | 0.0000
+
+============================================================
+Iteration 9
+Secret column: 379
+Ternary NoMod: 70.00%
+Binary NoMod: 27.33%
+============================================================
+
+Model: LinearRegression
+---
+Ternary Recovery:
+- Success: ✅
+- Coefficients (min/max/avg): -0.0501 | 0.0544 | -0.0003
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0132 | 0.0215 | 0.0001
+
+Model: OMP
+---
+Ternary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0471 | 0.0500 | -0.0002
+
+Binary Recovery:
+- Success: ❌
+- Coefficients (min/max/avg): -0.0034 | 0.0037 | 0.0000
+
+=======================================================
+Analysis complete

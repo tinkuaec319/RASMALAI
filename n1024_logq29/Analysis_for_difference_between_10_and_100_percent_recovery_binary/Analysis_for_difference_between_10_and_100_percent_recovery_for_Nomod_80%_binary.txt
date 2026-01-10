@@ -1,0 +1,105 @@
+LWE Secret Recovery Analysis Report
+===================================
+
+
+Comparison 1:
+  Easy (hwt=15, iter=8, samples=100000): 1/2 models
+  Difficult (hwt=15, iter=6, samples=100000): 1/2 models
+
+  Analysis skipped - conditions not met
+
+============================================================
+
+
+
+
+
+Comparison 2:
+  Easy (hwt=25, iter=8, samples=100000): 0/2 models
+  Difficult (hwt=25, iter=2, samples=100000): 0/2 models
+
+  Analysis skipped - conditions not met
+
+============================================================
+
+
+
+
+
+Comparison 3:
+  Easy (hwt=40, iter=8, samples=100000): 0/2 models
+  Difficult (hwt=40, iter=1, samples=100000): 0/2 models
+
+  Analysis skipped - conditions not met
+
+============================================================
+
+
+
+
+
+Comparison 4:
+  Easy (hwt=18, iter=1, samples=200000): 2/2 models
+  Difficult (hwt=18, iter=9, samples=200000): 1/2 models
+
+  Analysis skipped - conditions not met
+
+============================================================
+
+
+
+
+
+Comparison 5:
+  Easy (hwt=38, iter=2, samples=200000): 0/2 models
+  Difficult (hwt=38, iter=0, samples=200000): 1/2 models
+
+  Analysis skipped - conditions not met
+
+============================================================
+
+
+
+
+
+Comparison 6:
+  Easy (hwt=3, iter=5, samples=500000): 2/2 models
+  Difficult (hwt=3, iter=2, samples=500000): 0/2 models
+
+  Comparative Analysis:
+  ----------------------
+  Metric                | Easy Case       | Difficult Case
+  ---------------------------------------------------------
+  matrix_rank          | 1024.0000      | 1024.0000     
+  dependent_samples    | 498976.0000    | 498976.0000   
+  avg_error            | 85281974.3701  | 75384232.1666 
+  error_variance       | 15031730937418414.0000 | 10997103392205542.0000
+  max_error            | 536437725.0000 | 331516339.0000
+  sparsity_ratio       | 0.0029         | 0.0029        
+
+============================================================
+
+
+
+
+
+Comparison 7:
+  Easy (hwt=4, iter=7, samples=500000): 2/2 models
+  Difficult (hwt=4, iter=3, samples=500000): 0/2 models
+
+  Comparative Analysis:
+  ----------------------
+  Metric                | Easy Case       | Difficult Case
+  ---------------------------------------------------------
+  matrix_rank          | 1024.0000      | 1024.0000     
+  dependent_samples    | 498976.0000    | 498976.0000   
+  avg_error            | 87520702.1375  | 75934558.2297 
+  error_variance       | 16411493787642298.0000 | 11144821966928230.0000
+  max_error            | 628303358.0000 | 342781038.0000
+  sparsity_ratio       | 0.0039         | 0.0039        
+
+============================================================
+
+
+
+

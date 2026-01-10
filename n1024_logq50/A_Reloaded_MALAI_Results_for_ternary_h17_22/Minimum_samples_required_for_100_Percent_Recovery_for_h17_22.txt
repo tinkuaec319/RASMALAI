@@ -1,0 +1,54 @@
+************** Hamming weight = 17 ****************
+NoMod 60%  ==>  100000 samples for 100% recovery
+NoMod 65%  ==>  50000 samples for 100% recovery
+NoMod 70%  ==>  20000 samples for 100% recovery
+NoMod 75%  ==>  10000 samples for 100% recovery
+NoMod 80%  ==>  5000 samples for 100% recovery
+NoMod 85%  ==>  5000 samples for 100% recovery
+NoMod 90%  ==>  2000 samples for 100% recovery
+
+************** Hamming weight = 18 ****************
+NoMod 60%  ==>  50000 samples for 100% recovery
+NoMod 65%  ==>  50000 samples for 100% recovery
+NoMod 70%  ==>  20000 samples for 100% recovery
+NoMod 75%  ==>  10000 samples for 100% recovery
+NoMod 80%  ==>  5000 samples for 100% recovery
+NoMod 85%  ==>  5000 samples for 100% recovery
+NoMod 90%  ==>  2000 samples for 100% recovery
+
+************** Hamming weight = 19 ****************
+NoMod 60%  ==>  50000 samples for 100% recovery
+NoMod 65%  ==>  50000 samples for 100% recovery
+NoMod 70%  ==>  20000 samples for 100% recovery
+NoMod 75%  ==>  10000 samples for 100% recovery
+NoMod 80%  ==>  10000 samples for 100% recovery
+NoMod 85%  ==>  5000 samples for 100% recovery
+NoMod 90%  ==>  2000 samples for 100% recovery
+
+************** Hamming weight = 20 ****************
+NoMod 60%  ==>  50000 samples for 100% recovery
+NoMod 65%  ==>  50000 samples for 100% recovery
+NoMod 70%  ==>  20000 samples for 100% recovery
+NoMod 75%  ==>  10000 samples for 100% recovery
+NoMod 80%  ==>  10000 samples for 100% recovery
+NoMod 85%  ==>  5000 samples for 100% recovery
+NoMod 90%  ==>  2000 samples for 100% recovery
+
+************** Hamming weight = 21 ****************
+NoMod 60%  ==>  50000 samples for 100% recovery
+NoMod 65%  ==>  20000 samples for 100% recovery
+NoMod 70%  ==>  20000 samples for 100% recovery
+NoMod 75%  ==>  10000 samples for 100% recovery
+NoMod 80%  ==>  5000 samples for 100% recovery
+NoMod 85%  ==>  5000 samples for 100% recovery
+NoMod 90%  ==>  2000 samples for 100% recovery
+
+************** Hamming weight = 22 ****************
+NoMod 60%  ==>  50000 samples for 100% recovery
+NoMod 65%  ==>  50000 samples for 100% recovery
+NoMod 70%  ==>  20000 samples for 100% recovery
+NoMod 75%  ==>  10000 samples for 100% recovery
+NoMod 80%  ==>  5000 samples for 100% recovery
+NoMod 85%  ==>  2000 samples for 100% recovery
+NoMod 90%  ==>  2000 samples for 100% recovery
+
